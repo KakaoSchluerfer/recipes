@@ -33,7 +33,7 @@ Menge | Zutat
 4. Kräftig rühren, das Ei und Eigelb beigeben und kräftig rühren. Achtung, wird klebrig! Noch kein Mehl beigeben.
 
 5. Wenn es zu einem homogenen Teig verührt ist, die Butter nach und nach einkneten/einmischen
- 
+![Butter einmischen](Teig_herstellen.png)
 6. 10 Minuten so weiterrühren, bis er nicht mehr so an der Schüssel klebt.
 
 7. Teig auf einer Arbeitsfläche verteilen und zu einer Kugel formen. Falls er hier noch immer sehr klebt, etwas Mehl beifügen.
@@ -41,7 +41,7 @@ Menge | Zutat
 8. Teig in eine eingebutterte Schüssel/Form reinlegen und mit Klarsichtfolie abdecken
 
 9. Teig 80-90 Minuten gehen lassen. Der Teig muss sich in der Grösse verdoppelt haben.
- 
+![Teig gehen lassen](brioche_teig_gehenlassen.png)
 10. Arbeitsfläche bemehlen und Teig darauf stürzen. Einzelne Teiglinge mit je 100g auf der Waage abwägen.  
 
 11. Teigliche formen, 1-minütiges Youtube Video ==> [Teiglinge Formen - Youtube Video](https://youtube.com/clip/Ugkxv345aRwULGtr0Pm_8XibHyatZ_IKeOFH)
@@ -54,3 +54,4 @@ GANZ WICHTIG, DIE TEIGLINGE SOLLEN RUND UND SCHÖN GESTRAFT SEIN!! :DDD
 14. Buns ca. 14-15 Minuten bei 190° Ober- und Unterhitze backen bis sie schön goldbraun sind.
  
 15. Direkt nach dem Rausnehmen mit zerlassener Butter die fertigen Buns bestreichen, weniger ist mehr. ;-D
+![Brioche gebacken](Brioche_gebacken.png)
